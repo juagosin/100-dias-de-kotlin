@@ -1,6 +1,6 @@
 # Bienvenidos a los 100 días de Kotlin
 
-![qoo_dias_Kotlin2](https://media.discordapp.net/attachments/1218178612012777573/1221765062365155328/Fondos100DiasKotlin.png?ex=6613c462&is=66014f62&hm=2ed8ff124c87dd202e7a943703df841ed1ccade680d9ea1ef1eb9877b0c7a9d2&=&format=webp&quality=lossless&width=499&height=350)
+![qoo_dias_Kotlin2](https://media.discordapp.net/attachments/1218178612012777573/1221765957383360532/100_dias_Kotlin_v2.jpg?ex=6613c537&is=66015037&hm=188a09a037c7657c2e2f5305297c2bc43a78244b1ce6954667737106ab6cb977&=&format=webp)
 
 
 # Cómo Participar
