@@ -6,6 +6,10 @@
 # Cómo Participar
 [Documentación oficial Kotlin](https://kotlinlang.org/)
 
+[KOTLIN Desde Cero: Primeros Pasos en una hora](https://www.youtube.com/watch?v=T3ugOYTRF7c&ab_channel=MoureDevbyBraisMoure) - MoureDev
+
+Curso de programación con Kotlin - MoureDev -> [Youtube](https://www.youtube.com/playlist?list=PLNdFk2_brsReZeIQ1-2r783GWus0ZZ5io) - [Github](https://github.com/mouredev/KotlinDesdeCero)
+
 [Pasos básicos de Kotlin](https://www.tutorialspoint.com/kotlin/index.htm)
 
 Lista de YouTube: Puedes utilizar la lista de reproducción de Aristidev en [Youtube](https://www.youtube.com/playlist?list=PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_).
