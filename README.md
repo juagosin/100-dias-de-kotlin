@@ -4,6 +4,8 @@
 
 
 # Cómo Participar
+Sigue alguna documentación, video o recurso sobre kotlin y empieza a aprender
+
 [Documentación oficial Kotlin](https://kotlinlang.org/)
 
 [KOTLIN Desde Cero: Primeros Pasos en una hora](https://www.youtube.com/watch?v=T3ugOYTRF7c&ab_channel=MoureDevbyBraisMoure) - MoureDev
