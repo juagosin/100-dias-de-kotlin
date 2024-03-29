@@ -8,6 +8,8 @@ Sigue alguna documentación, video o recurso sobre kotlin y empieza a aprender
 
 [Documentación oficial Kotlin](https://kotlinlang.org/)
 
+[Guía de Kotlin](https://www.develou.com/guia-de-kotlin/) - Develou
+
 [KOTLIN Desde Cero: Primeros Pasos en una hora](https://www.youtube.com/watch?v=T3ugOYTRF7c&ab_channel=MoureDevbyBraisMoure) - MoureDev
 
 Curso de programación con Kotlin - MoureDev -> [Youtube](https://www.youtube.com/playlist?list=PLNdFk2_brsReZeIQ1-2r783GWus0ZZ5io) - [Github](https://github.com/mouredev/KotlinDesdeCero)
